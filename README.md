@@ -1,4 +1,4 @@
-# Hi there, I'm Aayush! 👋
+# Hi there, I'm Ayush! 👋
 
 Welcome to my GitHub profile!
 
