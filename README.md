@@ -7,7 +7,6 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently deepening my skills in web development, Python, Java, and exploring new tech every day.
 - 🛠️ I love building cool projects and sharing knowledge with the community.
 - 💬 Ask me about web technologies, backend scripting, or anything tech-related!
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 
   
 ## 🌐 Socials
