@@ -40,6 +40,12 @@ Welcome to my GitHub profile!
 - ✍️ I write tech blogs and tutorials in my free time.
 - 🌍 Always eager to collaborate on open-source projects.
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-saxena-69b554278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/AyushSa81632876?t=6EmmpX7czOd3fglcZLzgOA&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_saxena_ayush_740/?hl=en)
+
 ---
 
 _Thanks for stopping by! Let's connect and build something amazing together!_
